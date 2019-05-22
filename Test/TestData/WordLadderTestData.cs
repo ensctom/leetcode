@@ -3,7 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using System.Text;
 
-namespace Test
+namespace Test.TestData
 {
     public class WordLadderTestData : IEnumerable<object[]>
     {
